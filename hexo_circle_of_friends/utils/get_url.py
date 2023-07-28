@@ -21,7 +21,7 @@ class GetUrl:
     def get_common1_url(self, response, queue):
         avatar = response.css('.cf-friends img::attr(src)').extract()
         link = response.css('.cf-friends a::attr(href)').extract()
-        name = response.css('.cf-friends a::text').extract()
+        name = response.css('.cf-friends a::title').extract()
         self.handle(avatar, link, name, queue, "common1")
 
     def get_common2_url(self, response, queue):
