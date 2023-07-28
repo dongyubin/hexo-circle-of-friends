@@ -35,7 +35,16 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["HONG的小站", "https://hongweblog.com/", "https://hongweblog.com/main/01.jpg"],
-        # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
+        ["obaby@mars", "https://h4ck.org.cn/", "https://img.h4ck.org.cn/wp-content/uploads/2020/09/icon-500-100x100.png"],
+        ["Pantheon", "https://blog.pantheon.press/", "https://img.h4ck.org.cn/wp-content/uploads/2020/09/icon-500-100x100.png"],
+        ["ZkeqのCoding日志", "https://icodeq.com/", "https://img.onmicrosoft.cn/code.svg"],
+        ["小N同学", "https://www.imcharon.com/", "https://img.cdn.nesxc.com/favicon.ico"],
+        ["张洪Heo", "https://blog.zhheo.com/", "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"],
+        ["杜老师说", "https://dusays.com/", "https://cdn.dusays.com/avatar.png"],
+        ["纯情", "https://blog.xiaohack.org", "https://blog.xiaohack.org/favicon.ico"],
+        ["阿锋的小宇宙", "https://feng.pub", "https://cravatar.cn/avatar/868740183b995d2707e307ce0a89633a?s=200"],
+        ["陶小桃Blog", "https://www.52txr.cn", "https://tucdn.wpon.cn/2023/02/08/296e28f888ae1.png"],
+        ["风记星辰", "https://www.thyuu.com/", "https://std.thyuu.com/logo.webp"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
